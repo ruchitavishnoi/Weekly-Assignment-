@@ -1,0 +1,19 @@
+public level1ques2 {
+
+    public static void main(String[] args) {
+
+        // Marks of Sam in three subjects
+        int maths = 94;
+        int physics = 95;
+        int chemistry = 96;
+
+        // Calculate total marks
+        int totalMarks = maths + physics + chemistry;
+
+        // Calculate average
+        double average = totalMarks / 3.0;
+
+        // Display result
+        System.out.println("Sam’s average mark in PCM is " + average);
+    }
+}
