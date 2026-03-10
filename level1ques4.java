@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NaturalNumberSum {
+public class level1ques4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
